@@ -24,7 +24,7 @@ namespace Hamming
                     throw(new ArgumentException("Hamming Distance can only be calculated over strings of equal length"));
                 }
                  
-            //converting all the characters of original and current string to upper case for matching both input strings easily
+            //converting all the characters of original and current string to upper case for matching both the input strings easily
 
                 original.ToUpper();
 
